@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/alpilles", "destination": "/alpilles.html" },
+    { "source": "/luberon", "destination": "/luberon.html" },
+    { "source": "/chateauneuf", "destination": "/chateauneuf.html" },
+    { "source": "/a-propos", "destination": "/a-propos.html" },
+    { "source": "/contact", "destination": "/contact.html" }
+  ]
+}
